@@ -9,6 +9,7 @@ html {
 }
 
 body {
+  margin: 0;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -33,11 +34,4 @@ img {
 
 button {
   font: inherit;
-}
-
-.wrapper {
-  width: 100%;
-  max-width: 1100px;
-  margin: 0 auto;
-  background-color: #fff;
 }
